@@ -1,0 +1,1 @@
+let yourArray = [1, "streing", true, null, 77]; // Change this line
